@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spatial Tracker</string>
+    <string name="new_location">Nouveau point: Lat %.4f, Lon %.4f, Alt %.1f, Précision %.1fm</string>
+</resources>
